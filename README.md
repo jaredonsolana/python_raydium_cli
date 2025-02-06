@@ -11,7 +11,12 @@ Updated: 12/27/2024
 
 # Instructions
 
-Clone the repo, and add your Private Key (Base58 string) and RPC to the config.py.
+Clone the repo, and run 
+''''
+python setup.py
+''''
+
+add your Private Key (Base58 string) and RPC to the config.py.
 
 **When swapping, you must use the pool id, also known as the pair address. Do not use the mint aka token address.** 
 
