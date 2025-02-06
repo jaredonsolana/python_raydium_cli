@@ -12,9 +12,8 @@ Updated: 12/27/2024
 # Instructions
 
 Clone the repo, and run 
-''''
-python setup.py
-''''
+
+"$ python setup.py"
 
 add your Private Key (Base58 string) and RPC to the config.py.
 
